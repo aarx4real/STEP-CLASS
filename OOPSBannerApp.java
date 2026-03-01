@@ -1,4 +1,4 @@
-public class UC6_BannerApp {
+public class OOPSBannerApp {
     public static String[] getOOPSpattern() {
         return new String[]{
 
