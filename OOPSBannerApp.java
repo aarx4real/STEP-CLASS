@@ -1,5 +1,5 @@
 
-public class UC7_BannerApp {
+public class OOPSBannerApp {
 
     static class CharPatternMap {
         private final char character;
