@@ -2,7 +2,7 @@
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class UC8{
+public class OOPSBannerApp{
     private static Map<Character, String[]> buildPatternMap() {
         Map<Character, String[]> map = new LinkedHashMap<>();
         map.put('O', new String[]{
